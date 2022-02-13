@@ -24,8 +24,8 @@ Step 6:
 Run the program to determine the number of words in the file created.
 ## PROGRAM:
 ~~~
-Developed by:  Anitha P
-Register Number: 21500186
+Developed by:RAGUL VK
+Register Number: 21003061
 
 import sys
 fp= open(sys.argv[1])
